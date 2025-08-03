@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Adedoyin!
 
 Welcome to my GitHub profile! I'm a passionate software engineer with a strong background in [Computer Science/Computer Engineering] and a keen interest in building scalable, reliable, and user-friendly applications.
 
@@ -35,11 +35,22 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong b
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
 
 **Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000) 
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)  
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)  
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)  
+![Material UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat&logo=mui&logoColor=white)  
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Build Tools:**  
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)  
+![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=gradle&logoColor=white)
+
 
 **Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff) 
@@ -58,9 +69,8 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong b
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- [Portfolio](https://your-portfolio.com)  
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](www.linkedin.com/in/adedoyin-adepetun-42a18a1a5)  
+- [Email](mailto:doyinadepetun@gmail.com)
 
 ---
 
