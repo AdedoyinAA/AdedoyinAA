@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi there, I'm Adedoyin!
 
-Welcome to my GitHub profile! I'm a passionate software engineer with a strong background in [Computer Science/Computer Engineering] and a keen interest in building scalable, reliable, and user-friendly applications.
+Welcome to my GitHub profile! I'm a passionate software engineer with a strong background in **Computer Science/Computer Engineering** and a keen interest in building scalable, reliable, and user-friendly applications.
 
 ---
 
