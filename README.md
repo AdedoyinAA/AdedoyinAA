@@ -62,7 +62,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong b
 
 ## 📫 Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/adedoyin-adepetun-42a18a1a5)  
+- [LinkedIn](https://www.linkedin.com/in/adedoyin-adepetun-42a18a1a5)  
 - [Email](mailto:doyinadepetun@gmail.com)
 
 ---
