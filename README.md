@@ -60,6 +60,21 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong b
 
 ---
 
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=radical&hide_border=true)  
+
+---
+
+## 🌱 Contribution Graph  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=radical)  
+
+
+---
+
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/adedoyin-adepetun-42a18a1a5)  
