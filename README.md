@@ -60,13 +60,6 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong b
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdedoyinAA&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdedoyinAA&layout=compact&theme=radical)  
-
----
-
 ## 🌱 Contribution Graph  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdedoyinAA&theme=radical)  
 
